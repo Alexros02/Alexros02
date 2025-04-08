@@ -7,7 +7,7 @@ Me apasiona construir interfaces modernas, limpias y escalables con tecnologías
 ## 🛠️ Tech Stack que me encanta
 
 - ⚡ **React + Vite** — Rápido, modular y con excelente DX.
-- 💅 **Tailwind CSS v4** + DaisyUI v5 — Para maquetar con elegancia y velocidad.
+- 💅 **Tailwind CSS** + DaisyUI — Para maquetar con elegancia y velocidad.
 - 🔀 **React Router v6** — Navegación clara y flexible.
 - 🔧 **PlopJS** — Para mantener una estructura de componentes consistente.
 - 🔥 **Firebase** — Auth + Firestore para un backend serverless.
